@@ -1,0 +1,47 @@
+{
+	"$": {
+		"en": "gb",
+		"base": {
+			"title": "JM tax | Accounting firm from Brno",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat!"
+		},
+		"page": {
+			"home": "Home",
+			"bookkeeping": "Bookkeeping",
+			"contact": "Contact"
+		},
+		"other": {
+			"intro_img": "Intro image"
+		},
+		"intro": {
+			"title": "Accounting firm from Brno",
+			"subtitle": "We offer a wide range of products and services lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+			"btn": "FREE CONSULTATION"
+		},
+		"about": {
+			"title": "We perform and ensure",
+			"search": "Accounting and authorities under control. Always!",
+			"work": "You can rely on our accountants!",
+			"price": "Cost-effective accounting",
+			"b2b": "For entrepreneurs and freelancers"
+		},
+		"bookkeeping": {
+			"title": "Our services",
+			"comment_one": "n dapibus augue non sapien. Integer imperdiet lectus quis justo. Aliquam erat volutpat. Mauris tincidunt sem sed arcu. Etiam bibendum elit eget erat. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Pellentesque arcu.",
+			"ucetnictvi": "Accounting and tax record keeping",
+			"dph": "Processing VAT returns",
+			"dppo": "Processing income tax returns for individuals and corporations",
+			"sp": "Reports for self-employed and employees",
+			"dok": "Document processing",
+			"com": "Communication with authorities",
+			"conzult": "Accounting and tax consultations",
+			"dot": "Processing documents for subsidy settlements",
+			"spol": "Cooperation with tax advisor"
+		},
+		"contact": {
+			"title": "Contact",
+			"subtitle": "JM TAX Ltd.",
+			"appointment": "Get a free appointment with a specialist. Our experience and excellent customer ratings guarantee quality and success."
+		}
+	}
+}

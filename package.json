@@ -1,0 +1,28 @@
+{
+	"name": "astro-jm-tax",
+	"type": "module",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "astro dev",
+		"start": "astro dev",
+		"build": "astro check && astro build",
+		"preview": "astro preview",
+		"astro": "astro"
+	},
+	"dependencies": {
+		"@astrojs/check": "^0.3.1",
+		"@astrojs/tailwind": "^5.0.2",
+		"@material-tailwind/html": "^2.2.2",
+		"astro": "^3.6.0",
+		"astro-i18next": "^1.0.0-beta.21",
+		"astro-icon": "^0.8.1",
+		"astro-navbar": "^2.3.0",
+		"astro-robots-txt": "^1.0.0",
+		"astro-seo": "^0.8.0",
+		"flag-icons": "^7.0.2",
+		"photoswipe": "^5.4.2",
+		"simple-parallax-js": "^5.6.2",
+		"tailwindcss": "^3.3.5",
+		"typescript": "^5.3.2"
+	}
+}

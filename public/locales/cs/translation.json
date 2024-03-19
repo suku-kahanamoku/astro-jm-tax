@@ -1,0 +1,47 @@
+{
+	"$": {
+		"cs": "cz",
+		"base": {
+			"title": "JM tax | Účetní firma z Brna",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat!"
+		},
+		"page": {
+			"home": "Úvod",
+			"bookkeeping": "Účetnictví",
+			"contact": "Kontakt"
+		},
+		"other": {
+			"intro_img": "Intro image"
+		},
+		"intro": {
+			"title": "Účetní firma z Brna",
+			"subtitle": "Nabízíme širokou škálu produktů a služeb v oblasti lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+			"btn": "CHCI KONZULTACI ZDARMA"
+		},
+		"about": {
+			"title": "Provádíme a zajistíme",
+			"search": "Účetnictví i úřady pod kontrolou. Vždy!",
+			"work": "O naše účetní se můžete opřít!",
+			"price": "Cenově výhodné účetnictví",
+			"b2b": "Pro podnikatele i živnostníky"
+		},
+		"bookkeeping": {
+			"title": "Naše služby",
+			"comment_one": "n dapibus augue non sapien. Integer imperdiet lectus quis justo. Aliquam erat volutpat. Mauris tincidunt sem sed arcu. Etiam bibendum elit eget erat. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Pellentesque arcu.",
+			"ucetnictvi": "Vedení účetnictví a daňové evidence",
+			"dph": "Zpracování přiznání k DPH",
+			"dppo": "Zpracování přiznání DPPO a DPFO",
+			"sp": "Přehledy pro SP a ZP",
+			"dok": "Zpracování dokladů",
+			"com": "Komunikace s úřady",
+			"conzult": "Účetní a daňové konzultace",
+			"dot": "Zpracování podkladů pro vyúčtování dotace",
+			"spol": "Spolupráce s daňovým poradcem"
+		},
+		"contact": {
+			"title": "Kontakt",
+			"subtitle": "JM TAX s.r.o.",
+			"appointment": "Získejte zdarma schůzku se specialistou. Naše zkušenosti a skvělé hodnocení zákazníků zaručují kvalitu a úspěch"
+		}
+	}
+}

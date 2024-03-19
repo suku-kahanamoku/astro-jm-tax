@@ -1,0 +1,44 @@
+---
+import { Icon } from 'astro-icon';
+import { t } from 'i18next';
+
+import Container from '@components/layout/Container.astro';
+---
+
+<div id="about">
+	<Container class="py-12 md:py-16 border-b border-slate-200">
+		<h2 class="text-4xl lg:text-5xl font-bold lg:tracking-tight xl:tracking-tighter text-center text-primary">
+			{t('$.about.title')}
+		</h2>
+
+		<div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mt-8 text-gray-800">
+			<div class="from-top flex gap-8 items-center text-gray-800">
+				<div class="bg-secondary rounded-full p-2 w-14 shrink-0">
+					<Icon class="text-white" name="mdi:eye-check" />
+				</div>
+				<div class="font-semibold text-lg">{t('$.about.search')}</div>
+			</div>
+
+			<div class="from-top flex gap-8 items-center text-gray-800">
+				<div class="bg-secondary rounded-full p-2 w-14 shrink-0">
+					<Icon class="text-white" name="mdi:handshake-outline" />
+				</div>
+				<div class="font-semibold text-lg">{t('$.about.work')}</div>
+			</div>
+
+			<div class="from-top flex gap-8 items-center text-gray-800">
+				<div class="bg-secondary rounded-full p-2 w-14 shrink-0">
+					<Icon class="text-white" name="mdi:attach-money" />
+				</div>
+				<div class="font-semibold text-lg">{t('$.about.price')}</div>
+			</div>
+
+			<div class="from-top flex gap-8 items-center text-gray-800">
+				<div class="bg-secondary rounded-full p-2 w-14 shrink-0">
+					<Icon class="text-white" name="mdi:account-switch-outline" />
+				</div>
+				<div class="font-semibold text-lg">{t('$.about.b2b')}</div>
+			</div>
+		</div>
+	</Container>
+</div>

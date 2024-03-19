@@ -1,0 +1,47 @@
+{
+	"$": {
+		"de": "de",
+		"base": {
+			"title": "JM tax | Buchhaltungsunternehmen aus Brünn",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat!"
+		},
+		"page": {
+			"home": "Startseite",
+			"bookkeeping": "Buchhaltung",
+			"contact": "Kontakt"
+		},
+		"other": {
+			"intro_img": "Einführungsbild"
+		},
+		"intro": {
+			"title": "Buchhaltungsunternehmen aus Brünn",
+			"subtitle": "Wir bieten eine breite Palette von Produkten und Dienstleistungen lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+			"btn": "KOSTENLOSE BERATUNG"
+		},
+		"about": {
+			"title": "Wir führen durch und stellen sicher",
+			"search": "Buchhaltung und Behörden unter Kontrolle. Immer!",
+			"work": "Sie können sich auf unsere Buchhalter verlassen!",
+			"price": "Kostengünstige Buchhaltung",
+			"b2b": "Für Unternehmer und Freiberufler"
+		},
+		"bookkeeping": {
+			"title": "Unsere Dienstleistungen",
+			"comment_one": "n dapibus augue non sapien. Integer imperdiet lectus quis justo. Aliquam erat volutpat. Mauris tincidunt sem sed arcu. Etiam bibendum elit eget erat. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Pellentesque arcu.",
+			"ucetnictvi": "Buchhaltung und Steuererklärungen",
+			"dph": "Verarbeitung von Umsatzsteuererklärungen",
+			"dppo": "Verarbeitung von Einkommensteuererklärungen für Personen und Unternehmen",
+			"sp": "Berichte für Selbstständige und Angestellte",
+			"dok": "Dokumentenverarbeitung",
+			"com": "Kommunikation mit Behörden",
+			"conzult": "Buchhaltungs- und Steuerberatung",
+			"dot": "Verarbeitung von Unterlagen für Subventionsabrechnungen",
+			"spol": "Zusammenarbeit mit Steuerberater"
+		},
+		"contact": {
+			"title": "Kontakt",
+			"subtitle": "JM TAX GmbH",
+			"appointment": "Vereinbaren Sie einen kostenlosen Termin mit einem Spezialisten. Unsere Erfahrung und die ausgezeichneten Kundenbewertungen garantieren Qualität und Erfolg."
+		}
+	}
+}

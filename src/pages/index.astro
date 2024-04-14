@@ -6,10 +6,11 @@ import Intro from '@components/content/Intro.astro';
 import About from '@components/content/About.astro';
 import Bookkeeping from '@components/content/Bookkeeping.astro';
 import Contact from '@components/content/Contact.astro';
+import IntroImage from 'assets/img/intro.jpg';
 ---
 
 <Layout title={t('$.base.title')} description={t('$.base.description')}>
-	<Intro title="$.intro.title" description="$.intro.description" />
+	<Intro title="$.intro.title" description="$.intro.description" image={IntroImage} />
 	<About />
 	<Bookkeeping />
 	<Contact />

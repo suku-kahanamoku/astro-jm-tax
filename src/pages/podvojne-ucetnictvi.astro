@@ -5,10 +5,11 @@ import Layout from '@layouts/Layout.astro';
 import Intro from '@components/content/Intro.astro';
 import Contact from '@components/content/Contact.astro';
 import DoubleBookkeeping from '@components/content/DoubleBookkeeping.astro';
+import IntroImage from 'assets/img/bookkeeping.jpg';
 ---
 
 <Layout title={t('$.base.title')} description={t('$.base.description')}>
-	<Intro title="$.double_bookkeeping.title" description="$.double_bookkeeping.description" />
+	<Intro title="$.double_bookkeeping.title" description="$.double_bookkeeping.description" image={IntroImage} />
 	<DoubleBookkeeping />
 	<Contact />
 </Layout>

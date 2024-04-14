@@ -6,14 +6,14 @@ import { localizePath } from 'astro-i18next';
 import Container from '@components/layout/Container.astro';
 import MyLink from '@components/ui/MyLink.astro';
 import Parallax from '@components/ui/Parallax.astro';
-import IntroImage from 'assets/img/intro.jpg';
 
 export interface Props {
 	title: string;
 	description: string;
+	image: ImageMetadata;
 }
 
-const { title, description } = Astro.props;
+const { title, description, image } = Astro.props;
 ---
 
 <div id="intro" class="overflow-hidden relative">
@@ -29,7 +29,7 @@ const { title, description } = Astro.props;
 
 			<div class="mt-8 flex flex-col sm:flex-row gap-3">
 				<MyLink
-					href="#contact"
+					href={localizePath('/#contact')}
 					class="flex gap-1 items-center justify-center"
 					style="secondary"
 					rel="noopener"
@@ -41,5 +41,5 @@ const { title, description } = Astro.props;
 		</div>
 	</Container>
 
-	<Parallax image={IntroImage} />
+	<Parallax image={image} />
 </div>

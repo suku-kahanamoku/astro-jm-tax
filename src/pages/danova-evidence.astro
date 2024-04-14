@@ -5,10 +5,11 @@ import Layout from '@layouts/Layout.astro';
 import Intro from '@components/content/Intro.astro';
 import Contact from '@components/content/Contact.astro';
 import Tax from '@components/content/Tax.astro';
+import IntroImage from 'assets/img/income.jpg';
 ---
 
 <Layout title={t('$.base.title')} description={t('$.base.description')}>
-	<Intro title="$.tax.title" description="$.tax.description" />
+	<Intro title="$.tax.title" description="$.tax.description" image={IntroImage} />
 	<Tax />
 	<Contact />
 </Layout>

@@ -2,45 +2,127 @@
 	"$": {
 		"de": "de",
 		"base": {
-			"title": "JM tax | Buchhaltungsunternehmen aus Brünn",
-			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat!"
+			"title": "JM tax | Buchhaltungsfirma aus Brünn",
+			"description": "Die Buchhaltungsfirma JM tax s.r.o. bietet umfassende wirtschaftliche Dienstleistungen für Einzelpersonen, kleine, mittlere und große Unternehmen."
 		},
 		"page": {
 			"home": "Startseite",
-			"bookkeeping": "Buchhaltung",
+			"bookkeeping": "Unsere Dienstleistungen",
+			"double_bookkeeping": "Doppelte Buchführung",
+			"tax": "Steuerunterlagen",
+			"payroll_hr": "Lohn- und HR-Agenda",
+			"advice": "Beratung",
 			"contact": "Kontakt"
 		},
 		"other": {
 			"intro_img": "Einführungsbild"
 		},
 		"intro": {
-			"title": "Buchhaltungsunternehmen aus Brünn",
-			"subtitle": "Wir bieten eine breite Palette von Produkten und Dienstleistungen lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
-			"btn": "KOSTENLOSE BERATUNG"
+			"title": "Buchhaltungsfirma aus Brünn",
+			"description": "Die Buchhaltungsfirma JM tax s.r.o. bietet umfassende wirtschaftliche Dienstleistungen für Einzelpersonen, kleine, mittlere und große Unternehmen. Um rechtliche Sicherheit zu gewährleisten, haben alle Kunden einen Vertrag mit uns für Buchhaltung oder Steuerunterlagen abgeschlossen.",
+			"btn": "KOSTENLOSE BERATUNG ERHALTEN"
 		},
 		"about": {
-			"title": "Wir führen durch und stellen sicher",
-			"search": "Buchhaltung und Behörden unter Kontrolle. Immer!",
-			"work": "Sie können sich auf unsere Buchhalter verlassen!",
-			"price": "Kostengünstige Buchhaltung",
-			"b2b": "Für Unternehmer und Freiberufler"
+			"title": "Über uns",
+			"search": "Teil unserer Dienstleistungen ist die Vertretung des Kunden vor dem Finanzamt, die Verwaltung der Sozialversicherung und der Krankenversicherung.",
+			"work": "Wir bieten den Kunden einen individuellen Ansatz, der es ermöglicht, flexibel auf alle Anfragen zu reagieren.",
+			"price": "Das Ziel des Unternehmens ist es in erster Linie, den Kunden von der ordnungsgemäßen Buchführung zu entlasten, damit sie sich vollständig auf ihr Geschäft konzentrieren können. Die Buchhaltung liegt allein in unserer Verantwortung.",
+			"b2b": "Für Buchhaltung und Steuerverarbeitung verwenden wir Buchhaltungssoftware POHOD SQL und TAX."
 		},
 		"bookkeeping": {
 			"title": "Unsere Dienstleistungen",
-			"comment_one": "n dapibus augue non sapien. Integer imperdiet lectus quis justo. Aliquam erat volutpat. Mauris tincidunt sem sed arcu. Etiam bibendum elit eget erat. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Pellentesque arcu.",
-			"ucetnictvi": "Buchhaltung und Steuererklärungen",
-			"dph": "Verarbeitung von Umsatzsteuererklärungen",
-			"dppo": "Verarbeitung von Einkommensteuererklärungen für Personen und Unternehmen",
-			"sp": "Berichte für Selbstständige und Angestellte",
-			"dok": "Dokumentenverarbeitung",
-			"com": "Kommunikation mit Behörden",
-			"conzult": "Buchhaltungs- und Steuerberatung",
-			"dot": "Verarbeitung von Unterlagen für Subventionsabrechnungen",
-			"spol": "Zusammenarbeit mit Steuerberater"
+			"accounting": {
+				"title": "Buchhaltung",
+				"description": "Wir bieten umfassende Buchhaltungsdienstleistungen für kleine, mittlere und große Unternehmen."
+			},
+			"tax_records": {
+				"title": "Steuerunterlagen",
+				"description": "Wir bieten eine umfassende Verarbeitung von Steuerunterlagen."
+			},
+			"payroll_hr": {
+				"title": "Lohn- und HR-Agenda",
+				"description": "Wir bieten Lohnabrechnungs- und Personalverwaltungsdienstleistungen."
+			},
+			"advice": {
+				"title": "Beratung",
+				"description": "Wir bieten Buchhaltungs- und Steuerberatung zur Optimierung von Buchhaltungsprozessen und Steueroptimierung an. Wir bieten auch Beratung durch einen Steuerberater oder Wirtschaftsprüfer an."
+			},
+			"grant": {
+				"title": "Zuschüsse",
+				"description": "Bei Bedarf können wir eine ordnungsgemäße Abrechnung von Zuschüssen sicherstellen."
+			}
+		},
+		"double_bookkeeping": {
+			"title": "Doppelte Buchführung",
+			"subtitle": "Die Buchführung umfasst hauptsächlich",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+			"items": [
+				"Umfassende doppelte Buchführung",
+				"Verwaltung von geringfügigem und langfristigem Vermögen",
+				"Verwaltung von Forderungs- und Verbindlichkeitsübersichten",
+				"Kassenführung",
+				"Verarbeitung von Umsatzsteuererklärungen, Kontrollberichten und Zusammenfassenden Meldungen",
+				"Zusammenstellung von Abschlüssen nach tschechischen Rechnungslegungsstandards",
+				"Vorbereitung von Unterlagen für die Körperschaftsteuer",
+				"Vorbereitung von Unterlagen für Prüfungen",
+				"Verarbeitung von monatlichen Berichten",
+				"Kommunikation mit staatlichen Institutionen",
+				"Vertretung vor Behörden",
+				"Wir bieten weitere Dienstleistungen entsprechend den individuellen Bedürfnissen des Kunden an"
+			]
+		},
+		"tax": {
+			"title": "Steuerunterlagen",
+			"subtitle": "Steuerunterlagen umfassen hauptsächlich",
+			"description": "Wir erstellen genaue Einkommens- und Ausgabenübersichten, Vermögens- und Verbindlichkeitsübersichten. Wir berechnen Steuern und erinnern an Verpflichtungen im Steuerkalender.",
+			"items": [
+				"Umfassende Verwaltung von Steuerunterlagen",
+				"Journal für Einnahmen und Ausgaben",
+				"Verwaltung von geringfügigem und langfristigem Vermögen",
+				"Buchführung von Forderungen und Verbindlichkeiten",
+				"Kassenbuchführung",
+				"Verarbeitung von Umsatzsteuererklärungen, Kontrollberichten und Zusammenfassenden Meldungen",
+				"Zusammenstellung von Abschlüssen",
+				"Verarbeitung von monatlichen Berichten",
+				"Vorbereitung von individuellen Einkommensteuererklärungen",
+				"Kommunikation mit staatlichen Institutionen",
+				"Vertretung vor Behörden",
+				"Wir bieten weitere Dienstleistungen entsprechend den individuellen Bedürfnissen des Kunden an"
+			]
+		},
+		"payroll_hr": {
+			"title": "Lohn- und HR-Agenda",
+			"subtitle": "Die Lohn- und HR-Agenda umfasst hauptsächlich",
+			"description": "Wir können alle administrativen Aufgaben im Zusammenhang mit Ihren Mitarbeitern erledigen. Wir bearbeiten Gehälter und monatliche Übersichten für die Sozialversicherung und Krankenversicherung. Wir füllen Rentenversicherungsunterlagen aus. Wir senden alles Notwendige an die zuständigen Behörden. Wir kümmern uns um die Anmeldung und Abmeldung von Mitarbeitern. Wir führen jährliche Steuerabrechnungen durch.",
+			"items": [
+				"Verarbeitung von monatlichen Gehältern",
+				"Verarbeitung von Jahresabrechnungen",
+				"Ausstellung von Gehaltsabrechnungen",
+				"Berechnung von Steuer- und Abgabeneinbehalten",
+				"Sozial- und Krankenversicherungsbeiträge einschließlich monatlicher Gehaltsübersichten senden",
+				"Zusammenstellung von Zahlungsanweisungen",
+				"Anmeldung der Mitarbeiter für Kranken- und Sozialversicherung",
+				"Aufbewahrung von Gehaltsabrechnungen und Rentenversicherungsunterlagen",
+				"Vertretung im Falle von Prüfungen durch die Sozialversicherungsbehörde und Krankenversicherungen",
+				"Wir bieten weitere Dienstleistungen entsprechend den individuellen Bedürfnissen des Kunden an"
+			]
+		},
+		"advice": {
+			"title": "Beratung",
+			"subtitle": "Buchhaltungs- und Steuerberatung umfassen hauptsächlich",
+			"description": "Wir bieten fortlaufende und einmalige Steuerberatung an. Wir beraten Sie, wie Sie mit der Steuererklärung umgehen können. Wir zeigen Ihnen, wie Sie Zusammenfassungs- oder Kontrollberichte erstellen können.",
+			"items": [
+				"Wir helfen Ihnen, ein Gewerbe oder ein Unternehmen zu gründen",
+				"Individuelle Beratung bei der Lösung komplexer Buchhaltungs- und Steuerfragen",
+				"Verzögerung und Bearbeitung von Einkommensteuererklärungen",
+				"Optimierung der Steuerpflicht gemäß den aktuellen Vorschriften",
+				"Vorbereitung von Unterlagen für die Inspektion durch zuständige Behörden",
+				"Vertretung vor zuständigen staatlichen Institutionen"
+			]
 		},
 		"contact": {
 			"title": "Kontakt",
-			"subtitle": "JM TAX GmbH",
+			"subtitle": "JM TAX s.r.o.",
 			"appointment": "Vereinbaren Sie einen kostenlosen Termin mit einem Spezialisten. Unsere Erfahrung und die ausgezeichneten Kundenbewertungen garantieren Qualität und Erfolg."
 		}
 	}

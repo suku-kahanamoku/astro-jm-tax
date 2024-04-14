@@ -7,28 +7,35 @@ import Container from '@components/layout/Container.astro';
 import MyLink from '@components/ui/MyLink.astro';
 import Parallax from '@components/ui/Parallax.astro';
 import IntroImage from 'assets/img/intro.jpg';
+
+export interface Props {
+	title: string;
+	description: string;
+}
+
+const { title, description } = Astro.props;
 ---
 
-<div id='intro' class='overflow-hidden relative'>
-	<Container class='py-8 sm:py-16 md:py-32 text-white'>
-		<h1 class='text-5xl lg:text-6xl font-bold lg:tracking-tight xl:tracking-tighter'>
-			{t('$.intro.title')}
+<div id="intro" class="overflow-hidden relative">
+	<Container class="py-8 sm:py-16 md:py-32 text-white">
+		<h1 class="text-5xl lg:text-6xl font-bold lg:tracking-tight xl:tracking-tighter">
+			{t(title)}
 		</h1>
 
-		<div class='from-left'>
-			<p class='text-xl mt-8 max-w-xl'>
-				{t('$.intro.subtitle')}
+		<div class="from-left">
+			<p class="text-xl mt-8 max-w-xl">
+				{t(description)}
 			</p>
 
-			<div class='mt-8 flex flex-col sm:flex-row gap-3'>
+			<div class="mt-8 flex flex-col sm:flex-row gap-3">
 				<MyLink
-					href={localizePath('/#contact')}
-					class='flex gap-1 items-center justify-center'
-					style='secondary'
-					rel='noopener'
+					href="#contact"
+					class="flex gap-1 items-center justify-center"
+					style="secondary"
+					rel="noopener"
 				>
 					{t('$.intro.btn')}
-					<Icon class='w-5 h-5' name='bx:bxs-right-arrow-alt' />
+					<Icon class="w-5 h-5" name="bx:bxs-right-arrow-alt" />
 				</MyLink>
 			</div>
 		</div>

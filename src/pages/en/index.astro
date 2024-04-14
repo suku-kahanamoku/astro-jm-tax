@@ -6,11 +6,15 @@ import Intro from '@components/content/Intro.astro';
 import About from '@components/content/About.astro';
 import Bookkeeping from '@components/content/Bookkeeping.astro';
 import Contact from '@components/content/Contact.astro';
+import DoubleBookkeeping from '@components/content/DoubleBookkeeping.astro';
+import Tax from '@components/content/Tax.astro';
 ---
 
 <Layout title={t('$.base.title')} description={t('$.base.description')}>
 	<Intro />
 	<About />
 	<Bookkeeping />
+	<DoubleBookkeeping />
+	<Tax />
 	<Contact />
 </Layout>

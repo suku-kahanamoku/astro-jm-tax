@@ -19,6 +19,16 @@ const menuitems: any[] = [
 	{
 		title: t('$.page.bookkeeping'),
 		path: localizePath('/#bookkeeping'),
+		children: [
+			{
+				title: t('$.page.double_bookkeeping'),
+				path: localizePath('/podvojne-ucetnictvi'),
+			},
+			{
+				title: t('$.page.tax'),
+				path: localizePath('/danova-evidence'),
+			},
+		],
 	},
 	{
 		title: t('$.page.contact'),

@@ -3,11 +3,13 @@
 		"cs": "cz",
 		"base": {
 			"title": "JM tax | Účetní firma z Brna",
-			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat!"
+			"description": "Účetní kancelář JM tax s. r. o. poskytuje kompletní ekonomický servis pro fyzické osoby, malé, střední a velké společnosti."
 		},
 		"page": {
 			"home": "Úvod",
-			"bookkeeping": "Účetnictví",
+			"bookkeeping": "Naše služby",
+			"double_bookkeeping": "Podvojné účetnictví",
+			"tax": "Daňová evidence",
 			"contact": "Kontakt"
 		},
 		"other": {
@@ -15,28 +17,76 @@
 		},
 		"intro": {
 			"title": "Účetní firma z Brna",
-			"subtitle": "Nabízíme širokou škálu produktů a služeb v oblasti lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+			"description": "Účetní kancelář JM tax s. r. o. poskytuje kompletní ekonomický servis pro fyzické osoby, malé, střední a velké společnosti. Pro zajištění právní jistoty mají všichni klienti s námi uzavřenou smlouvu o vedení účetnictví nebo daňové evidence.",
 			"btn": "CHCI KONZULTACI ZDARMA"
 		},
 		"about": {
-			"title": "Provádíme a zajistíme",
-			"search": "Účetnictví i úřady pod kontrolou. Vždy!",
-			"work": "O naše účetní se můžete opřít!",
-			"price": "Cenově výhodné účetnictví",
-			"b2b": "Pro podnikatele i živnostníky"
+			"title": "O nás",
+			"search": "Součástí našich služeb je zastupování klienta před finančním úřadem, správou sociálního zabezpečení a zdravotními pojišťovnami.",
+			"work": "Klientům poskytujeme individuální přístup, a díky tomu reagujeme pružně na všechny požadavky.",
+			"price": "Snahou společnosti je především uvolnit klientům ruce s řádným vedením účetnictví a zajistit tak možnost, aby se plně věnovali svému podnikání. Vedení účetnictví je plně naše starost.",
+			"b2b": "Pro zpracování účetnictví a daní používáme účetní software POHOD SQL a TAX."
 		},
 		"bookkeeping": {
 			"title": "Naše služby",
-			"comment_one": "n dapibus augue non sapien. Integer imperdiet lectus quis justo. Aliquam erat volutpat. Mauris tincidunt sem sed arcu. Etiam bibendum elit eget erat. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Pellentesque arcu.",
-			"ucetnictvi": "Vedení účetnictví a daňové evidence",
-			"dph": "Zpracování přiznání k DPH",
-			"dppo": "Zpracování přiznání DPPO a DPFO",
-			"sp": "Přehledy pro SP a ZP",
-			"dok": "Zpracování dokladů",
-			"com": "Komunikace s úřady",
-			"conzult": "Účetní a daňové konzultace",
-			"dot": "Zpracování podkladů pro vyúčtování dotace",
-			"spol": "Spolupráce s daňovým poradcem"
+			"ucetnictvi": {
+				"title": "Účetnictví",
+				"description": "Poskytujeme komplexní vedení účetnictví pro malé, střední a velké společnosti."
+			},
+			"dph": {
+				"title": "Daňové evidence",
+				"description": "Poskytujeme komplexní zpracování daňové evidence."
+			},
+			"payroll": {
+				"title": "Mzdová a personální agenda",
+				"description": "Poskytujeme zpracování a vedení mzdové agendy."
+			},
+			"consult": {
+				"title": "Poradenství",
+				"description": "Našim klientům nabízíme účetní a daňové poradenství pro zefektivnění účetních procesů a daňovou optimalizaci. Dále také nabízíme konzultace s daňovým poradcem či auditorem."
+			},
+			"grant": {
+				"title": "Dotace",
+				"description": "V případě potřeby klientů jsme schopni zajistit řádné vyúčtování dotací."
+			}
+		},
+		"double_bookkeeping": {
+			"title": "Podvojné účetnictví",
+			"subtitle": "Vedení účetnictví zahrnuje především",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+			"items": [
+				"Kompletní vedení podvojného účetnictví",
+				"Vedení evidence drobného a dlouhodobého majetku",
+				"Vedení přehledu pohledávek a závazků",
+				"Vedení pokladny",
+				"Zpracování přiznání k DPH, kontrolního hlášení a souhrnného hlášení",
+				"Sestavení účetní závěrky podle českých účetních standardů",
+				"Zpracování podkladů k dani z příjmů právnických osob",
+				"Zpracování podkladů pro audit",
+				"Zpracování měsíčních reportů",
+				"Komunikace se státními institucemi",
+				"Zastupování před úřady",
+				"Ostatní služby poskytujeme dle individuálních potřeb klienta"
+			]
+		},
+		"tax": {
+			"title": "Daňová evidence",
+			"subtitle": "Daňová evidence zahrnuje především",
+			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+			"items": [
+				"Kompletní vedení daňové evidence",
+				"Vedeni deníku příjmů a výdajů",
+				"Vedeni evidence drobného a dlouhodobého majetku",
+				"Vedení knihy pohledávek a závazků",
+				"Vedení pokladní knihy",
+				"Zpracování přiznání k DPH, kontrolního hlášení a souhrnného hlášení",
+				"Sestavení účetní závěrky",
+				"Zpracování měsíčních reportů",
+				"Zpracování přiznání k dani z příjmů fyzických osob",
+				"Komunikace se státními institucemi",
+				"Zastupování před úřady",
+				"Ostatní služby poskytujeme dle individuálních potřeb klienta"
+			]
 		},
 		"contact": {
 			"title": "Kontakt",

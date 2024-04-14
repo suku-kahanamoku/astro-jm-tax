@@ -1,0 +1,15 @@
+---
+import { t } from 'i18next';
+
+import Layout from '@layouts/Layout.astro';
+import Intro from '@components/content/Intro.astro';
+import Contact from '@components/content/Contact.astro';
+import Advice from '@components/content/Advice.astro';
+import IntroImage from 'assets/img/desk.jpg';
+---
+
+<Layout title={t('$.base.title')} description={t('$.base.description')}>
+	<Intro title="$.advice.title" description="$.advice.description" image={IntroImage} />
+	<Advice />
+	<Contact />
+</Layout>

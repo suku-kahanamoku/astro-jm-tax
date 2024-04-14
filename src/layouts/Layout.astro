@@ -84,8 +84,8 @@ const root = localizePath('/');
 				}
 			}
 
-			if ((RTRIM(location.pathname, '/') || '/') === root) {
-				document.querySelectorAll(`a[href^="${location.pathname}#"]`).forEach((anchor) => {
+			for (const anchor of document.getElementsByTagName('a')) {
+				if (anchor.href.includes('#')) {
 					anchor.addEventListener('click', function (e) {
 						e.preventDefault();
 						const urlObj = new URL(this.getAttribute('href'), location.origin);
@@ -93,7 +93,7 @@ const root = localizePath('/');
 						scroll(hash);
 						history.replaceState(null, '', hash);
 					});
-				});
+				}
 			}
 
 			document.addEventListener('DOMContentLoaded', function () {

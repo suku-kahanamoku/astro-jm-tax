@@ -1,0 +1,72 @@
+---
+import { Icon } from 'astro-icon';
+import { t } from 'i18next';
+
+import Container from '@components/layout/Container.astro';
+
+const features = [
+	{
+		title: t('$.payroll.items.0'),
+		icon: 'mdi:calculator',
+	},
+	{
+		title: t('$.payroll.items.1'),
+		icon: 'tabler:radioactive',
+	},
+	{
+		title: t('$.payroll.items.2'),
+		icon: 'ic:round-forward-30',
+	},
+	{
+		title: t('$.payroll.items.3'),
+		icon: 'mdi:moonshine-outline',
+	},
+	{
+		title: t('$.payroll.items.4'),
+		icon: 'subway:sound-1',
+	},
+	{
+		title: t('$.payroll.items.5'),
+		icon: 'tabler:sunshine',
+	},
+	{
+		title: t('$.payroll.items.6'),
+		icon: 'tabler:sunshine',
+	},
+	{
+		title: t('$.payroll.items.7'),
+		icon: 'tabler:sunshine',
+	},
+	{
+		title: t('$.payroll.items.8'),
+		icon: 'tabler:sunshine',
+	},
+	{
+		title: t('$.payroll.items.9'),
+		icon: 'tabler:sunshine',
+	},
+];
+---
+
+<div id="double-bookkeeping">
+	<Container class="py-12 md:py-16 border-b border-slate-200">
+		<h2 class="text-4xl lg:text-5xl font-bold lg:tracking-tight xl:tracking-tighter text-center text-primary">
+			{t('$.payroll.subtitle')}
+		</h2>
+
+		<div class="grid sm:grid-cols-2 md:grid-cols-3 mt-12 gap-8">
+			{
+				features.map((item: any) => (
+					<div class="from-bottom flex gap-4 items-center text-gray-800">
+						<div class="bg-secondary rounded-full p-2 w-12 shrink-0">
+							<Icon class="text-white" name={item.icon} />
+						</div>
+						<div>
+							<h3 class="font-semibold text-lg">{item.title}</h3>{' '}
+						</div>
+					</div>
+				))
+			}
+		</div>
+	</Container>
+</div>

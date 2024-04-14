@@ -10,6 +10,8 @@
 			"bookkeeping": "Naše služby",
 			"double_bookkeeping": "Podvojné účetnictví",
 			"tax": "Daňová evidence",
+			"mzdova_personalni_agenda": "Mzdová a personální agenda",
+			"advice": "Poradenství",
 			"contact": "Kontakt"
 		},
 		"other": {
@@ -72,7 +74,7 @@
 		"tax": {
 			"title": "Daňová evidence",
 			"subtitle": "Daňová evidence zahrnuje především",
-			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+			"description": "Připravíme korektní přehledy příjmů a výdajů, přehledy o majetku a závazcích. Spočítáme daně a ve správný čas připomeneme plnění závazků zapsaných v daňovém kalendáři.",
 			"items": [
 				"Kompletní vedení daňové evidence",
 				"Vedeni deníku příjmů a výdajů",
@@ -86,6 +88,36 @@
 				"Komunikace se státními institucemi",
 				"Zastupování před úřady",
 				"Ostatní služby poskytujeme dle individuálních potřeb klienta"
+			]
+		},
+		"payroll": {
+			"title": "Mzdová a personální agenda",
+			"subtitle": "Mzdová a personální agenda obsahuje zejména",
+			"description": "Umíme zajistit veškerou administrativu týkající se Vašich zaměstnanců. Zpracujeme mzdy a měsíční přehledy pro ČSSZ a ZP. Vyplníme evidenční listy důchodového zabezpečení. Vše potřebné zašleme na příslušné úřady. Postaráme se o přihlášení a odhlášení zaměstnanců. Provedeme roční zúčtovaní daní.",
+			"items": [
+				"Zpracování měsíčních mezd",
+				"Zpracování ročního zúčtování",
+				"Vystavení výplatní pásky",
+				"Výpočet srážek daní a odvodů",
+				"Odvody sociálního a zdravotního pojištění včetně zaslání měsíčních mzdových přehledů",
+				"Sestavení příkazů k úhradě plateb",
+				"Přihlášení zaměstnanců ke zdravotnímu a sociálnímu pojištění",
+				"Evidenci mzdových listů a evidenčních listů důchodového pojištění",
+				"Zastupování v případě kontrol ze správy sociálního zabezpečení a zdravotních pojišťoven",
+				"Ostatní služby poskytujeme dle individuálních potřeb klienta"
+			]
+		},
+		"advice": {
+			"title": "Poradenství",
+			"subtitle": "Účetní a daňové poradenství obsahuje především",
+			"description": "Nabízíme průběžné i jednorázové daňové poradenství. Poradíme Vám, jak se nezbláznit z podání daňového přiznání. Naučíme Vás, jak zpracovat souhrnná či kontrolní hlášení.",
+			"items": [
+				"Pomůžeme Vám založit živnost nebo společnost",
+				"Individuální poradenství při řešení komplexních záležitostí vztahujících se k účetnictví a daním",
+				"Odklad a zpracování daňového přiznání k dani z příjmů",
+				"Optimalizace daňové povinnosti dle aktuálních platných předpisů",
+				"Příprava podkladů pro kontrolu příslušných úřadů",
+				"Zastupování před příslušnými státními institucemi"
 			]
 		},
 		"contact": {

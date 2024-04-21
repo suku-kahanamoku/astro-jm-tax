@@ -7,66 +7,62 @@ import Container from '@components/layout/Container.astro';
 const features = [
 	{
 		title: t('$.tax.items.0'),
-		icon: 'mdi:calculator',
+		icon: 'clarity:success-line',
 	},
 	{
 		title: t('$.tax.items.1'),
-		icon: 'tabler:radioactive',
+		icon: 'clarity:success-line',
 	},
 	{
 		title: t('$.tax.items.2'),
-		icon: 'ic:round-forward-30',
+		icon: 'clarity:success-line',
 	},
 	{
 		title: t('$.tax.items.3'),
-		icon: 'mdi:moonshine-outline',
+		icon: 'clarity:success-line',
 	},
 	{
 		title: t('$.tax.items.4'),
-		icon: 'subway:sound-1',
+		icon: 'clarity:success-line',
 	},
 	{
 		title: t('$.tax.items.5'),
-		icon: 'tabler:sunshine',
+		icon: 'clarity:success-line',
 	},
 	{
 		title: t('$.tax.items.6'),
-		icon: 'tabler:sunshine',
+		icon: 'clarity:success-line',
 	},
 	{
 		title: t('$.tax.items.7'),
-		icon: 'tabler:sunshine',
+		icon: 'clarity:success-line',
 	},
 	{
 		title: t('$.tax.items.8'),
-		icon: 'tabler:sunshine',
+		icon: 'clarity:success-line',
 	},
 	{
 		title: t('$.tax.items.9'),
-		icon: 'tabler:sunshine',
+		icon: 'clarity:success-line',
 	},
 	{
 		title: t('$.tax.items.10'),
-		icon: 'tabler:sunshine',
+		icon: 'clarity:success-line',
 	},
 	{
 		title: t('$.tax.items.11'),
-		icon: 'tabler:sunshine',
+		icon: 'clarity:success-line',
 	},
 ];
 ---
 
 <div id="about">
 	<Container class="py-12 md:py-16 border-b border-slate-200">
-		<h2 class="text-4xl lg:text-5xl font-bold lg:tracking-tight xl:tracking-tighter text-center text-primary">
-			{t('$.tax.subtitle')}
-		</h2>
-
 		<div class="grid sm:grid-cols-2 md:grid-cols-3 mt-12 gap-8">
 			{
 				features.map((item: any) => (
 					<div class="from-bottom flex gap-4 items-center text-gray-800">
-						<div class="bg-secondary rounded-full p-2 w-12 shrink-0">
+						<div class="bg-primary rounded-full p-2 w-10 shrink-0">
 							<Icon class="text-white" name={item.icon} />
 						</div>
 						<div>

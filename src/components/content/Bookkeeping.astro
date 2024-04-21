@@ -6,29 +6,34 @@ import Container from '@components/layout/Container.astro';
 
 const features = [
 	{
-		title: t('$.bookkeeping.ucetnictvi.title'),
-		description: t('$.bookkeeping.ucetnictvi.description'),
+		title: t('$.bookkeeping.accounting.title'),
+		description: t('$.bookkeeping.accounting.description'),
+		icon: 'mdi:calculator-variant-outline',
+	},
+	{
+		title: t('$.bookkeeping.tax_records.title'),
+		description: t('$.bookkeeping.tax_records.description'),
 		icon: 'mdi:calculator',
 	},
 	{
-		title: t('$.bookkeeping.dph.title'),
-		description: t('$.bookkeeping.dph.description'),
-		icon: 'tabler:radioactive',
+		title: t('$.bookkeeping.payroll_hr.title'),
+		description: t('$.bookkeeping.payroll_hr.description'),
+		icon: 'mdi:human-queue',
 	},
 	{
-		title: t('$.bookkeeping.payroll.title'),
-		description: t('$.bookkeeping.payroll.description'),
-		icon: 'ic:round-forward-30',
-	},
-	{
-		title: t('$.bookkeeping.consult.title'),
-		description: t('$.bookkeeping.consult.description'),
-		icon: 'mdi:moonshine-outline',
+		title: t('$.bookkeeping.advice.title'),
+		description: t('$.bookkeeping.advice.description'),
+		icon: 'mdi:hand-coin',
 	},
 	{
 		title: t('$.bookkeeping.grant.title'),
 		description: t('$.bookkeeping.grant.description'),
-		icon: 'subway:sound-1',
+		icon: 'mdi:finance',
+	},
+	{
+		title: t('$.bookkeeping.other.title'),
+		description: t('$.bookkeeping.other.description'),
+		icon: 'mdi:human-handsup',
 	},
 ];
 ---

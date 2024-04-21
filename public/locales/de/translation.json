@@ -12,10 +12,9 @@
 			"tax": "Steuerunterlagen",
 			"payroll_hr": "Lohn- und HR-Agenda",
 			"advice": "Beratung",
+			"grant": "Zuschusse",
+			"other": "Andere Dienstleistungen",
 			"contact": "Kontakt"
-		},
-		"other": {
-			"intro_img": "Einführungsbild"
 		},
 		"intro": {
 			"title": "Buchhaltungsfirma aus Brünn",
@@ -50,12 +49,15 @@
 			"grant": {
 				"title": "Zuschüsse",
 				"description": "Bei Bedarf können wir eine ordnungsgemäße Abrechnung von Zuschüssen sicherstellen."
+			},
+			"other": {
+				"title": "Andere Dienstleistungen",
+				"description": ""
 			}
 		},
 		"double_bookkeeping": {
 			"title": "Doppelte Buchführung",
-			"subtitle": "Die Buchführung umfasst hauptsächlich",
-			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+			"description": "Wir wissen, dass jede Buchhaltungsfirma Buchhaltungsdienstleistungen anbietet, aber wir möchten etwas Extra bieten, damit alles funktioniert, wie es sollte. Unser Ziel ist es, uns maximal an die Anforderungen der Kunden anzupassen und die beste Option für den Kunden zu wählen, um Zeit und Geld zu sparen.",
 			"items": [
 				"Umfassende doppelte Buchführung",
 				"Verwaltung von geringfügigem und langfristigem Vermögen",
@@ -73,8 +75,7 @@
 		},
 		"tax": {
 			"title": "Steuerunterlagen",
-			"subtitle": "Steuerunterlagen umfassen hauptsächlich",
-			"description": "Wir erstellen genaue Einkommens- und Ausgabenübersichten, Vermögens- und Verbindlichkeitsübersichten. Wir berechnen Steuern und erinnern an Verpflichtungen im Steuerkalender.",
+			"description": "Da wir gerne mit Kleinunternehmern zusammenarbeiten, bieten wir Dienstleistungen im Zusammenhang mit ihren Aktivitäten an. Wir bieten Dienstleistungen an, damit Sie sich vollständig auf Ihr Geschäft konzentrieren können und sich nicht mit Buchhaltungs- und Steuerproblemen befassen müssen.",
 			"items": [
 				"Umfassende Verwaltung von Steuerunterlagen",
 				"Journal für Einnahmen und Ausgaben",
@@ -92,8 +93,7 @@
 		},
 		"payroll_hr": {
 			"title": "Lohn- und HR-Agenda",
-			"subtitle": "Die Lohn- und HR-Agenda umfasst hauptsächlich",
-			"description": "Wir können alle administrativen Aufgaben im Zusammenhang mit Ihren Mitarbeitern erledigen. Wir bearbeiten Gehälter und monatliche Übersichten für die Sozialversicherung und Krankenversicherung. Wir füllen Rentenversicherungsunterlagen aus. Wir senden alles Notwendige an die zuständigen Behörden. Wir kümmern uns um die Anmeldung und Abmeldung von Mitarbeitern. Wir führen jährliche Steuerabrechnungen durch.",
+			"description": "Da wir wissen, dass Mitarbeiter ein integraler Bestandteil jedes kleinen und großen Unternehmens sind, kümmern wir uns auch um diesen Bereich Ihres Unternehmens. Wir werden die Lohn- und Personalfragen für Sie erleichtern, damit Sie und Ihre Mitarbeiter zufrieden sind.",
 			"items": [
 				"Verarbeitung von monatlichen Gehältern",
 				"Verarbeitung von Jahresabrechnungen",
@@ -109,8 +109,7 @@
 		},
 		"advice": {
 			"title": "Beratung",
-			"subtitle": "Buchhaltungs- und Steuerberatung umfassen hauptsächlich",
-			"description": "Wir bieten fortlaufende und einmalige Steuerberatung an. Wir beraten Sie, wie Sie mit der Steuererklärung umgehen können. Wir zeigen Ihnen, wie Sie Zusammenfassungs- oder Kontrollberichte erstellen können.",
+			"description": "Da Buchhaltungs- und Steuerfragen nicht immer klar sind, bieten wir die Zusammenarbeit mit einem Steuerberater und Wirtschaftsprüfer an, damit Ihre Buchhaltungs- und Steuerangelegenheiten immer gesetzeskonform, aber auch optimal sind.",
 			"items": [
 				"Wir helfen Ihnen, ein Gewerbe oder ein Unternehmen zu gründen",
 				"Individuelle Beratung bei der Lösung komplexer Buchhaltungs- und Steuerfragen",
@@ -118,6 +117,26 @@
 				"Optimierung der Steuerpflicht gemäß den aktuellen Vorschriften",
 				"Vorbereitung von Unterlagen für die Inspektion durch zuständige Behörden",
 				"Vertretung vor zuständigen staatlichen Institutionen"
+			]
+		},
+		"grant": {
+			"title": "Zuschusse",
+			"description": "Da wir wissen, dass viele Unternehmen Zuschüsse nutzen, die ihnen ihr Geschäft erleichtern, können wir auch in diesem Bereich zusammenarbeiten.",
+			"items": [
+				"Verarbeitung von Unterlagen zur Beantragung von Zuschüssen",
+				"Wir stellen sicher, dass die Buchführung gemäß den Förderregeln geführt wird",
+				"Ordentliche Abrechnung von Zuschüssen",
+				"Erstellung des anschließenden Berichts über die Zuschüsse"
+			]
+		},
+		"other": {
+			"title": "Andere Dienstleistungen",
+			"description": "Im Zusammenhang mit Ihrem Unternehmen können verschiedene Anforderungen anfallen, bei denen wir Ihnen vollständig helfen können, um Ihnen Zeit zu sparen, die Sie sonst mit der Untersuchung weiterer mit Ihrem Unternehmen verbundener Probleme verbringen würden.",
+			"items": [
+				"Verarbeitung von statistischen Berichten",
+				"Unterlagen zur Beantragung von Krediten",
+				"Verarbeitung von Finanzanalysen und Berichten",
+				"Vertretung im Falle von Kontrollen durch staatliche Institutionen"
 			]
 		},
 		"contact": {

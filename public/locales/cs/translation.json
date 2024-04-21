@@ -10,12 +10,11 @@
 			"bookkeeping": "Naše služby",
 			"double_bookkeeping": "Podvojné účetnictví",
 			"tax": "Daňová evidence",
-			"mzdova_personalni_agenda": "Mzdová a personální agenda",
+			"payroll_hr": "Mzdová a personální agenda",
 			"advice": "Poradenství",
+			"grant": "Dotace",
+			"other": "Ostatní služby",
 			"contact": "Kontakt"
-		},
-		"other": {
-			"intro_img": "Intro image"
 		},
 		"intro": {
 			"title": "Účetní firma z Brna",
@@ -31,31 +30,34 @@
 		},
 		"bookkeeping": {
 			"title": "Naše služby",
-			"ucetnictvi": {
+			"accounting": {
 				"title": "Účetnictví",
 				"description": "Poskytujeme komplexní vedení účetnictví pro malé, střední a velké společnosti."
 			},
-			"dph": {
-				"title": "Daňové evidence",
+			"tax_records": {
+				"title": "Daňová evidence",
 				"description": "Poskytujeme komplexní zpracování daňové evidence."
 			},
-			"payroll": {
+			"payroll_hr": {
 				"title": "Mzdová a personální agenda",
 				"description": "Poskytujeme zpracování a vedení mzdové agendy."
 			},
-			"consult": {
+			"advice": {
 				"title": "Poradenství",
 				"description": "Našim klientům nabízíme účetní a daňové poradenství pro zefektivnění účetních procesů a daňovou optimalizaci. Dále také nabízíme konzultace s daňovým poradcem či auditorem."
 			},
 			"grant": {
 				"title": "Dotace",
 				"description": "V případě potřeby klientů jsme schopni zajistit řádné vyúčtování dotací."
+			},
+			"other": {
+				"title": "Ostatní služby",
+				"description": ""
 			}
 		},
 		"double_bookkeeping": {
 			"title": "Podvojné účetnictví",
-			"subtitle": "Vedení účetnictví zahrnuje především",
-			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+			"description": "Víme, že účetní služby nabízí každá účetní kancelář, ale my chceme nabídnout něco navíc, tak aby vše klapalo tak jak má. Naším cílem je maximálně se přizpůsobit požadavkům klientům a zvolit pro klienta tu nejlepší variantu, a ušetřili tím jeho čas a peníze.",
 			"items": [
 				"Kompletní vedení podvojného účetnictví",
 				"Vedení evidence drobného a dlouhodobého majetku",
@@ -73,8 +75,7 @@
 		},
 		"tax": {
 			"title": "Daňová evidence",
-			"subtitle": "Daňová evidence zahrnuje především",
-			"description": "Připravíme korektní přehledy příjmů a výdajů, přehledy o majetku a závazcích. Spočítáme daně a ve správný čas připomeneme plnění závazků zapsaných v daňovém kalendáři.",
+			"description": "Protože nás baví spolupráce i s drobnými podnikateli, nabízíme služby související s jejich činností. Nabízíme Vám služby tak, abyste se mohli plně soustředit na své podnikání, a nemuseli jste řešit účetní a daňové problémy.",
 			"items": [
 				"Kompletní vedení daňové evidence",
 				"Vedeni deníku příjmů a výdajů",
@@ -90,10 +91,9 @@
 				"Ostatní služby poskytujeme dle individuálních potřeb klienta"
 			]
 		},
-		"payroll": {
+		"payroll_hr": {
 			"title": "Mzdová a personální agenda",
-			"subtitle": "Mzdová a personální agenda obsahuje zejména",
-			"description": "Umíme zajistit veškerou administrativu týkající se Vašich zaměstnanců. Zpracujeme mzdy a měsíční přehledy pro ČSSZ a ZP. Vyplníme evidenční listy důchodového zabezpečení. Vše potřebné zašleme na příslušné úřady. Postaráme se o přihlášení a odhlášení zaměstnanců. Provedeme roční zúčtovaní daní.",
+			"description": "Protože víme, že zaměstnanci jsou nedílnou součástí každé malé i velké firmy, postaráme se i o tuto oblast vašeho podnikání. Usnadníme Vám řešení mzdové a personální problematiky, k spokojenosti Vás i vašich zaměstnanců.",
 			"items": [
 				"Zpracování měsíčních mezd",
 				"Zpracování ročního zúčtování",
@@ -109,8 +109,7 @@
 		},
 		"advice": {
 			"title": "Poradenství",
-			"subtitle": "Účetní a daňové poradenství obsahuje především",
-			"description": "Nabízíme průběžné i jednorázové daňové poradenství. Poradíme Vám, jak se nezbláznit z podání daňového přiznání. Naučíme Vás, jak zpracovat souhrnná či kontrolní hlášení.",
+			"description": "Protože ne vždy je účetní a daňová problematika jasná, nabízíme spolupráci s daňovým poradcem a auditorem, tak aby vždy vaše účetní a daňové záležitosti byly podle zákona správně, ale zároveň v optimální výši.",
 			"items": [
 				"Pomůžeme Vám založit živnost nebo společnost",
 				"Individuální poradenství při řešení komplexních záležitostí vztahujících se k účetnictví a daním",
@@ -118,6 +117,26 @@
 				"Optimalizace daňové povinnosti dle aktuálních platných předpisů",
 				"Příprava podkladů pro kontrolu příslušných úřadů",
 				"Zastupování před příslušnými státními institucemi"
+			]
+		},
+		"grant": {
+			"title": "Dotace",
+			"description": "Protože víme, že spousta společností využívá dotace, které jim usnadňují jejich podnikání, jsme schopni zajistit spolupráci i v této oblasti.",
+			"items": [
+				"Zpracování podkladů pro získání dotace",
+				"Zajišťujeme vedení účetnictví tak, jak vyžadují dotační pravidla",
+				"Řádné vyúčtování dotace",
+				"Zpracování následné zprávy o dotaci"
+			]
+		},
+		"other": {
+			"title": "Ostatní služby",
+			"description": "V souvislosti s podnikáním můžou nastat požadavky na různé služby, se kterými jsme schopni Vám plně pomoct, tak abychom Vám ušetřili váš čas se studováním dalších problematik, souvisejících s vaším podnikáním.",
+			"items": [
+				"Zpracování statistických výkazů",
+				"Podklady pro získání úvěrů",
+				"Zpracování finančních analýz a reportů",
+				"Zastupování v případě, kontrol ze strany státních institucí"
 			]
 		},
 		"contact": {

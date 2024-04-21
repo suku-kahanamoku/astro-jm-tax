@@ -12,10 +12,9 @@
 			"tax": "Tax Records",
 			"payroll_hr": "Payroll and HR Agenda",
 			"advice": "Consultancy",
+			"grant": "Grants",
+			"other": "Other Services",
 			"contact": "Contact"
-		},
-		"other": {
-			"intro_img": "Intro image"
 		},
 		"intro": {
 			"title": "Accounting firm from Brno",
@@ -25,7 +24,7 @@
 		"about": {
 			"title": "About Us",
 			"search": "Part of our services includes representing the client before the tax office, managing social security, and health insurance.",
-			"work": "We provide individual approach to clients, enabling flexible response to all requests.",
+			"work": "We provide an individual approach to clients, enabling a flexible response to all requests.",
 			"price": "The company's aim is primarily to free up clients with proper accounting management, allowing them to fully focus on their business. Accounting management is entirely our responsibility.",
 			"b2b": "For accounting and tax processing, we use accounting software POHOD SQL and TAX."
 		},
@@ -50,12 +49,15 @@
 			"grant": {
 				"title": "Grants",
 				"description": "If needed, we can ensure proper grant settlement for clients."
+			},
+			"other": {
+				"title": "Other Services",
+				"description": ""
 			}
 		},
 		"double_bookkeeping": {
 			"title": "Double Entry Bookkeeping",
-			"subtitle": "Accounting management primarily includes",
-			"description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+			"description": "We know that every accounting firm offers accounting services, but we want to offer something extra so that everything works as it should. Our goal is to adapt maximally to clients' requirements and choose the best option for the client, saving their time and money.",
 			"items": [
 				"Comprehensive double entry bookkeeping",
 				"Management of petty and long-term assets",
@@ -73,8 +75,7 @@
 		},
 		"tax": {
 			"title": "Tax Records",
-			"subtitle": "Tax records primarily include",
-			"description": "We prepare accurate income and expense summaries, asset and liability overviews. We calculate taxes and remind of obligations in the tax calendar.",
+			"description": "Because we enjoy collaborating with small business owners, we offer services related to their activities. We offer services so that you can fully focus on your business and not have to deal with accounting and tax issues.",
 			"items": [
 				"Comprehensive tax record management",
 				"Journal of income and expenses",
@@ -92,8 +93,7 @@
 		},
 		"payroll_hr": {
 			"title": "Payroll and HR Agenda",
-			"subtitle": "Payroll and HR agenda mainly include",
-			"description": "We can handle all administrative tasks related to your employees. We process wages and monthly overviews for social security and health insurance. We fill in pension insurance records. We send everything necessary to the relevant authorities. We take care of employee registration and deregistration. We carry out annual tax settlements.",
+			"description": "Because we know that employees are an integral part of every small and large company, we also take care of this area of your business. We'll simplify payroll and personnel issues for your satisfaction and that of your employees.",
 			"items": [
 				"Processing monthly wages",
 				"Processing annual settlements",
@@ -109,8 +109,7 @@
 		},
 		"advice": {
 			"title": "Consultancy",
-			"subtitle": "Accounting and tax consultancy mainly include",
-			"description": "We offer ongoing and one-time tax consultancy. We advise on how to handle tax returns. We teach you how to prepare summary or control reports.",
+			"description": "Because accounting and tax issues are not always clear, we offer cooperation with a tax advisor and auditor so that your accounting and tax matters are always legally correct but also optimized to the maximum extent.",
 			"items": [
 				"We help you establish a trade or company",
 				"Individual advice on dealing with complex accounting and tax matters",
@@ -118,6 +117,26 @@
 				"Tax liability optimization according to current regulations",
 				"Preparation of documents for inspection by relevant authorities",
 				"Representation before relevant state institutions"
+			]
+		},
+		"grant": {
+			"title": "Grants",
+			"description": "Because we know that many companies use grants that facilitate their business, we are able to collaborate in this area as well.",
+			"items": [
+				"Processing documentation for obtaining grants",
+				"We provide accounting management as required by grant rules",
+				"Proper grant settlement",
+				"Processing subsequent grant reports"
+			]
+		},
+		"other": {
+			"title": "Other Services",
+			"description": "In connection with business, various service requirements may arise, which we are fully capable of helping you with, so that we save your time studying other issues related to your business.",
+			"items": [
+				"Processing of statistical reports",
+				"Documentation for obtaining loans",
+				"Preparation of financial analyses and reports",
+				"Representation in case of inspections by state institutions"
 			]
 		},
 		"contact": {

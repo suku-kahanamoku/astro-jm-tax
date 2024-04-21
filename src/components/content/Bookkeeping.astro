@@ -1,6 +1,7 @@
 ---
 import { Icon } from 'astro-icon';
 import { t } from 'i18next';
+import { localizePath } from 'astro-i18next';
 
 import Container from '@components/layout/Container.astro';
 
@@ -9,31 +10,37 @@ const features = [
 		title: t('$.bookkeeping.accounting.title'),
 		description: t('$.bookkeeping.accounting.description'),
 		icon: 'mdi:calculator-variant-outline',
+		path: localizePath('/podvojne-ucetnictvi'),
 	},
 	{
 		title: t('$.bookkeeping.tax_records.title'),
 		description: t('$.bookkeeping.tax_records.description'),
 		icon: 'mdi:calculator',
+		path: localizePath('/danova-evidence'),
 	},
 	{
 		title: t('$.bookkeeping.payroll_hr.title'),
 		description: t('$.bookkeeping.payroll_hr.description'),
 		icon: 'mdi:human-queue',
+		path: localizePath('/mzdova-personalni-agenda'),
 	},
 	{
 		title: t('$.bookkeeping.advice.title'),
 		description: t('$.bookkeeping.advice.description'),
 		icon: 'mdi:hand-coin',
+		path: localizePath('/poradenstvi'),
 	},
 	{
 		title: t('$.bookkeeping.grant.title'),
 		description: t('$.bookkeeping.grant.description'),
 		icon: 'mdi:finance',
+		path: localizePath('/dotace'),
 	},
 	{
 		title: t('$.bookkeeping.other.title'),
 		description: t('$.bookkeeping.other.description'),
 		icon: 'mdi:human-handsup',
+		path: localizePath('/ostatni-sluzby'),
 	},
 ];
 ---
@@ -44,10 +51,10 @@ const features = [
 			{t('$.bookkeeping.title')}
 		</h2>
 
-		<a href="#" class="grid sm:grid-cols-2 md:grid-cols-3 mt-12 gap-8">
+		<div class="grid sm:grid-cols-2 md:grid-cols-3 mt-12 gap-8">
 			{
 				features.map((item: any) => (
-					<div class="from-bottom flex gap-4 items-center text-gray-800">
+					<a href={item.path} class="from-bottom flex gap-4 items-center text-gray-800">
 						<div class="bg-primary rounded-full p-2 w-12 shrink-0">
 							<Icon class="text-white" name={item.icon} />
 						</div>
@@ -55,9 +62,9 @@ const features = [
 							<h3 class="font-semibold text-lg">{item.title}</h3>
 							<p>{item.description}</p>
 						</div>
-					</div>
+					</a>
 				))
 			}
-		</a>
+		</div>
 	</Container>
 </div>

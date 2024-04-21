@@ -57,6 +57,7 @@
 		},
 		"double_bookkeeping": {
 			"title": "Doppelte Buchführung",
+			"subtitle": "Doppelte Buchführung",
 			"description": "Wir wissen, dass jede Buchhaltungsfirma Buchhaltungsdienstleistungen anbietet, aber wir möchten etwas Extra bieten, damit alles funktioniert, wie es sollte. Unser Ziel ist es, uns maximal an die Anforderungen der Kunden anzupassen und die beste Option für den Kunden zu wählen, um Zeit und Geld zu sparen.",
 			"items": [
 				"Umfassende doppelte Buchführung",
@@ -75,6 +76,7 @@
 		},
 		"tax": {
 			"title": "Steuerunterlagen",
+			"subtitle": "Steuerunterlagen",
 			"description": "Da wir gerne mit Kleinunternehmern zusammenarbeiten, bieten wir Dienstleistungen im Zusammenhang mit ihren Aktivitäten an. Wir bieten Dienstleistungen an, damit Sie sich vollständig auf Ihr Geschäft konzentrieren können und sich nicht mit Buchhaltungs- und Steuerproblemen befassen müssen.",
 			"items": [
 				"Umfassende Verwaltung von Steuerunterlagen",
@@ -93,6 +95,7 @@
 		},
 		"payroll_hr": {
 			"title": "Lohn- und HR-Agenda",
+			"subtitle": "Lohn- und HR-Agenda",
 			"description": "Da wir wissen, dass Mitarbeiter ein integraler Bestandteil jedes kleinen und großen Unternehmens sind, kümmern wir uns auch um diesen Bereich Ihres Unternehmens. Wir werden die Lohn- und Personalfragen für Sie erleichtern, damit Sie und Ihre Mitarbeiter zufrieden sind.",
 			"items": [
 				"Verarbeitung von monatlichen Gehältern",
@@ -109,6 +112,7 @@
 		},
 		"advice": {
 			"title": "Beratung",
+			"subtitle": "Beratung",
 			"description": "Da Buchhaltungs- und Steuerfragen nicht immer klar sind, bieten wir die Zusammenarbeit mit einem Steuerberater und Wirtschaftsprüfer an, damit Ihre Buchhaltungs- und Steuerangelegenheiten immer gesetzeskonform, aber auch optimal sind.",
 			"items": [
 				"Wir helfen Ihnen, ein Gewerbe oder ein Unternehmen zu gründen",
@@ -121,6 +125,7 @@
 		},
 		"grant": {
 			"title": "Zuschusse",
+			"subtitle": "Zuschusse",
 			"description": "Da wir wissen, dass viele Unternehmen Zuschüsse nutzen, die ihnen ihr Geschäft erleichtern, können wir auch in diesem Bereich zusammenarbeiten.",
 			"items": [
 				"Verarbeitung von Unterlagen zur Beantragung von Zuschüssen",
@@ -131,6 +136,7 @@
 		},
 		"other": {
 			"title": "Andere Dienstleistungen",
+			"subtitle": "Andere Dienstleistungen",
 			"description": "Im Zusammenhang mit Ihrem Unternehmen können verschiedene Anforderungen anfallen, bei denen wir Ihnen vollständig helfen können, um Ihnen Zeit zu sparen, die Sie sonst mit der Untersuchung weiterer mit Ihrem Unternehmen verbundener Probleme verbringen würden.",
 			"items": [
 				"Verarbeitung von statistischen Berichten",

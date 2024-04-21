@@ -57,6 +57,7 @@
 		},
 		"double_bookkeeping": {
 			"title": "Double Entry Bookkeeping",
+			"subtitle": "Double Entry Bookkeeping",
 			"description": "We know that every accounting firm offers accounting services, but we want to offer something extra so that everything works as it should. Our goal is to adapt maximally to clients' requirements and choose the best option for the client, saving their time and money.",
 			"items": [
 				"Comprehensive double entry bookkeeping",
@@ -75,6 +76,7 @@
 		},
 		"tax": {
 			"title": "Tax Records",
+			"subtitle": "Tax Records",
 			"description": "Because we enjoy collaborating with small business owners, we offer services related to their activities. We offer services so that you can fully focus on your business and not have to deal with accounting and tax issues.",
 			"items": [
 				"Comprehensive tax record management",
@@ -93,6 +95,7 @@
 		},
 		"payroll_hr": {
 			"title": "Payroll and HR Agenda",
+			"subtitle": "Payroll and HR Agenda",
 			"description": "Because we know that employees are an integral part of every small and large company, we also take care of this area of your business. We'll simplify payroll and personnel issues for your satisfaction and that of your employees.",
 			"items": [
 				"Processing monthly wages",
@@ -109,6 +112,7 @@
 		},
 		"advice": {
 			"title": "Consultancy",
+			"subtitle": "Consultancy",
 			"description": "Because accounting and tax issues are not always clear, we offer cooperation with a tax advisor and auditor so that your accounting and tax matters are always legally correct but also optimized to the maximum extent.",
 			"items": [
 				"We help you establish a trade or company",
@@ -121,6 +125,7 @@
 		},
 		"grant": {
 			"title": "Grants",
+			"subtitle": "Grants",
 			"description": "Because we know that many companies use grants that facilitate their business, we are able to collaborate in this area as well.",
 			"items": [
 				"Processing documentation for obtaining grants",
@@ -131,6 +136,7 @@
 		},
 		"other": {
 			"title": "Other Services",
+			"subtitle": "Other Services",
 			"description": "In connection with business, various service requirements may arise, which we are fully capable of helping you with, so that we save your time studying other issues related to your business.",
 			"items": [
 				"Processing of statistical reports",

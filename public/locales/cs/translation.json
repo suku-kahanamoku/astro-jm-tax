@@ -57,6 +57,7 @@
 		},
 		"double_bookkeeping": {
 			"title": "Podvojné účetnictví",
+			"subtitle": "Vedení účetnictví zahrnuje",
 			"description": "Víme, že účetní služby nabízí každá účetní kancelář, ale my chceme nabídnout něco navíc, tak aby vše klapalo tak jak má. Naším cílem je maximálně se přizpůsobit požadavkům klientům a zvolit pro klienta tu nejlepší variantu, a ušetřili tím jeho čas a peníze.",
 			"items": [
 				"Kompletní vedení podvojného účetnictví",
@@ -75,6 +76,7 @@
 		},
 		"tax": {
 			"title": "Daňová evidence",
+			"subtitle": "Daňová evidence zahrnuje",
 			"description": "Protože nás baví spolupráce i s drobnými podnikateli, nabízíme služby související s jejich činností. Nabízíme Vám služby tak, abyste se mohli plně soustředit na své podnikání, a nemuseli jste řešit účetní a daňové problémy.",
 			"items": [
 				"Kompletní vedení daňové evidence",
@@ -93,6 +95,7 @@
 		},
 		"payroll_hr": {
 			"title": "Mzdová a personální agenda",
+			"subtitle": "Mzdová a personální agenda obsahuje",
 			"description": "Protože víme, že zaměstnanci jsou nedílnou součástí každé malé i velké firmy, postaráme se i o tuto oblast vašeho podnikání. Usnadníme Vám řešení mzdové a personální problematiky, k spokojenosti Vás i vašich zaměstnanců.",
 			"items": [
 				"Zpracování měsíčních mezd",
@@ -109,6 +112,7 @@
 		},
 		"advice": {
 			"title": "Poradenství",
+			"subtitle": "Účetní a daňové poradenství obsahuje",
 			"description": "Protože ne vždy je účetní a daňová problematika jasná, nabízíme spolupráci s daňovým poradcem a auditorem, tak aby vždy vaše účetní a daňové záležitosti byly podle zákona správně, ale zároveň v optimální výši.",
 			"items": [
 				"Pomůžeme Vám založit živnost nebo společnost",
@@ -121,6 +125,7 @@
 		},
 		"grant": {
 			"title": "Dotace",
+			"subtitle": "Dotace obsahuje",
 			"description": "Protože víme, že spousta společností využívá dotace, které jim usnadňují jejich podnikání, jsme schopni zajistit spolupráci i v této oblasti.",
 			"items": [
 				"Zpracování podkladů pro získání dotace",
@@ -131,6 +136,7 @@
 		},
 		"other": {
 			"title": "Ostatní služby",
+			"subtitle": "Ostatní služby zahrnuji",
 			"description": "V souvislosti s podnikáním můžou nastat požadavky na různé služby, se kterými jsme schopni Vám plně pomoct, tak abychom Vám ušetřili váš čas se studováním dalších problematik, souvisejících s vaším podnikáním.",
 			"items": [
 				"Zpracování statistických výkazů",

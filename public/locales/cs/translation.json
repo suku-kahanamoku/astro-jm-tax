@@ -26,7 +26,7 @@
 			"search": "Součástí našich služeb je zastupování klienta před finančním úřadem, správou sociálního zabezpečení a zdravotními pojišťovnami.",
 			"work": "Klientům poskytujeme individuální přístup, a díky tomu reagujeme pružně na všechny požadavky.",
 			"price": "Snahou společnosti je především uvolnit klientům ruce s řádným vedením účetnictví a zajistit tak možnost, aby se plně věnovali svému podnikání. Vedení účetnictví je plně naše starost.",
-			"b2b": "Pro zpracování účetnictví a daní používáme účetní software POHOD SQL a TAX."
+			"b2b": "Pro zpracování účetnictví a daní používáme účetní software POHODA SQL a TAX."
 		},
 		"bookkeeping": {
 			"title": "Naše služby",
@@ -44,7 +44,7 @@
 			},
 			"advice": {
 				"title": "Poradenství",
-				"description": "Našim klientům nabízíme účetní a daňové poradenství pro zefektivnění účetních procesů a daňovou optimalizaci. Dále také nabízíme konzultace s daňovým poradcem či auditorem."
+				"description": "Nabízíme účetní a daňové poradenství pro zefektivnění účetních procesů a daňovou optimalizaci."
 			},
 			"grant": {
 				"title": "Dotace",
@@ -52,7 +52,7 @@
 			},
 			"other": {
 				"title": "Ostatní služby",
-				"description": ""
+				"description": "Nabízíme ostatní služby související s podnikáním."
 			}
 		},
 		"double_bookkeeping": {
